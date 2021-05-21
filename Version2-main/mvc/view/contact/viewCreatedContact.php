@@ -1,0 +1,1 @@
+<p>Le contact a bien été créé</p>
